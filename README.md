@@ -1,8 +1,10 @@
 <div id="header" align="center">
    <h1>
-    hey there
-    <img src="https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="100"/>
+    hi there! <br>
+      <img src="https://media.giphy.com/media/9wzW1YdbLbejPGd6LN/giphy.gif" width="200" height="100">
   </h1>
+  
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/jlcosby/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,16 +13,16 @@
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=jlcosby&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=jlcosby&style=flat-square&color=blue" alt="views"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="250"/>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
-I am a career switcher -- :teacher: --> ::computer: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Virginia.
+I am a career switcher -- :teacher: --> :computer:
 - :mag_right: I am actively seeking entry-level or junior DevOps cloud engineering roles. 
 
 - :telescope: Exploring CI/CD pipelines and Terraform.
@@ -58,3 +60,8 @@ I am a career switcher -- :teacher: --> ::computer: <img src="https://media.giph
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jlcosby&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+<h2>
+   <img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif">
+</h2>
