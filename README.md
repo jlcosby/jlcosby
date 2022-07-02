@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a career switcher -- :teacher: --> ::computer: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a career switcher -- :teacher: --> ::computer: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Virginia.
 - :mag_right: I am actively seeking entry-level or junior DevOps cloud engineering roles. 
 
 - :telescope: Exploring CI/CD pipelines and Terraform.
