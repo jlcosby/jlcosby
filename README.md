@@ -28,7 +28,7 @@ I am a career switcher -- :teacher: --> ::computer: <img src="https://media.giph
 
 - :zap: In my free time, I read all of the :books: and collect :pen: :pencil2: :blue_book:, drink :coffee: and :tea:, watch :ghost: :movie_camera:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jlcosby/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jlcosby/)
 
 ---
 
@@ -61,7 +61,6 @@ I am a career switcher -- :teacher: --> ::computer: <img src="https://media.giph
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jlcosby&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
-### :writing_hand: Blog:
-<a href="https://medium.com/@jennelle.cosby">
+### :writing_hand: Blog: <a href="https://medium.com/@jennelle.cosby">
 
 
