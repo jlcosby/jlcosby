@@ -63,5 +63,5 @@ I am a career switcher -- :teacher: --> :computer:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcosby&theme=material-palenight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlcosby&layout=compact)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcosby&layout=compact)" />
 </a>
