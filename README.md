@@ -60,4 +60,4 @@ I am a career switcher -- :teacher: --> :computer:
 
 ### :fire: My Stats :
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=jlcosby&show_icons=true&theme=material-palenight" />
-<img class="img" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jlcosby&show_icons=true&theme=material-palenight" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcosby)](https://github.com/anuraghazra/github-readme-stats)
