@@ -59,6 +59,6 @@ I am a career switcher -- :teacher: --> :computer:
 ---
 
 ### :fire: My Stats :
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=jlcosby&show_icons=true&theme=material-palenight" />[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jlcosby&theme=material-palenight)](https://git.io/streak-stats)
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=jlcosby&show_icons=true&theme=material-palenight" />[[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jlcosby&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF)](https://git.io/streak-stats)
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcosby&theme=material-palenight&layout=compact" />
 
