@@ -31,11 +31,11 @@
 I am a career switcher -- :teacher: --> :computer:
 - :mag_right: I am actively seeking entry-level or junior DevOps cloud engineering roles. 
 
-- :telescope: Exploring CI/CD pipelines and Terraform.
+- :telescope: Exploring CI/CD pipelines and Kubernetes.
 
 - :zap: In my free time, I read all of the :books: and collect :pen: :pencil2: :blue_book:, drink :coffee: and :tea:, watch :ghost: :movie_camera:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jlcosby/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jlcosby/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tuvwxyandz
 
 ---
 
