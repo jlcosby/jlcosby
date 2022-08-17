@@ -29,13 +29,13 @@
 
 ### :woman_technologist: About Me :<img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" height="200" align="right">
 I am a career switcher -- :teacher: --> :computer:
-- :mag_right:  
+- :mag_right:  Currently serving as an Apprentice DevOps Engineer
 
 - :telescope: Exploring CI/CD pipelines and Kubernetes.
 
 - :zap: In my free time, I read all of the :books: and collect :pen: :pencil2: :blue_book:, drink :coffee: and :tea:, watch :ghost: :movie_camera:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jlcosby/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mscodedependent
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jlcosby/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mscodedependent)
 
 ---
 
