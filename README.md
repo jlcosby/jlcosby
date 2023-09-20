@@ -12,12 +12,6 @@
     <a href="https://medium.com/@jennelle.cosby">
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
-    <a href="https://www.instagram.com/ms_codedependent/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
-    <a href="https://twitter.com/tuvwxyandz">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=jlcosby&style=flat-square&color=blue" alt="views"/>
 </div>
